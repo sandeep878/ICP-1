@@ -1,2 +1,2 @@
-# ICP-1
+# Neural Networks and Deep Learning/ICP-1
 ICP 
